@@ -1,0 +1,5 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+fphp:S103p"KSplit this 183 characters long line (which is greater than 120 authorized).(û€8®Û­€™2
+kphp:S103"KSplit this 150 characters long line (which is greater than 120 authorized).(÷Àş¶ùÿÿÿÿ8–’¯€™2
+{	php:S1192$"`Define a constant instead of duplicating this literal "Ø«Ø¨Øªâ€ŒÙ†Ø§Ù… Ø¯Ø± Ø¨Ø§Ø²Ø§Ø±" 3 times.(ªÅğ;8®Û­€™2

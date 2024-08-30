@@ -1,0 +1,29 @@
+
+I	php:S1135"4Complete the task associated to this "TODO" comment.(í’
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103f"KSplit this 124 characters long line (which is greater than 120 authorized).(¡¨áÿ
+_php:S103m"KSplit this 123 characters long line (which is greater than 120 authorized).(¡¨áÿ
+8	php:S1780’"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+J	php:S6600"5Remove the parentheses from this "require_once" call.(Ü§êÆ
+O	php:S6600"5Remove the parentheses from this "require_once" call.(»‡°İûÿÿÿÿ
+J	php:S6600"5Remove the parentheses from this "require_once" call.(Ç¨©¨
+O	php:S6600"5Remove the parentheses from this "require_once" call.(°ßÛ¢üÿÿÿÿ
+J	php:S6600 "5Remove the parentheses from this "require_once" call.(Í ÷‰
+J	php:S6600!"5Remove the parentheses from this "require_once" call.(Úõ²µ
+O	php:S6600""5Remove the parentheses from this "require_once" call.(•º¦¸ÿÿÿÿÿ
+K	php:S6600†"5Remove the parentheses from this "require_once" call.(ÂäÃ
+V	php:S1793_"<Replace this "else if" keyword sequence by "elseif" keyword.(÷øñšüÿÿÿÿ
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ü§êÆ
+k	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(’¶Æıÿÿÿÿ
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Àì„Å
+k	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(‘­Œ¥ùÿÿÿÿ
+f	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(ßÎ¨
+f	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(çÅ­ª
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(»‡°İûÿÿÿÿ
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–ŞÌĞ
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ç¨©¨
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(°ßÛ¢üÿÿÿÿ
+f	php:S4833 "QReplace "require_once" with namespace import mechanism through the "use" keyword.(Í ÷‰
+f	php:S4833!"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Úõ²µ
+k	php:S4833""QReplace "require_once" with namespace import mechanism through the "use" keyword.(•º¦¸ÿÿÿÿÿ
+g	php:S4833†"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÂäÃ

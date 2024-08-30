@@ -1,0 +1,7 @@
+
+U	php:S1131>"@Remove the useless trailing whitespaces at the end of this line.(ø÷¤‹
+Z	php:S1131@"@Remove the useless trailing whitespaces at the end of this line.(ôˆ©Ùÿÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103("KSplit this 136 characters long line (which is greater than 120 authorized).(Š‹¨€ÿÿÿÿÿ
+dphp:S103)"KSplit this 155 characters long line (which is greater than 120 authorized).(Ìô’£þÿÿÿÿ
+`	php:S1192*"KDefine a constant instead of duplicating this literal "List Price" 3 times.(‚’…ª

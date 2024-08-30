@@ -1,0 +1,12 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+J	php:S1765"5Replace the "var" keyword with the modifier "public".(ËøÕÊ
+~php:S101"eRename class "Accounts_TransferOwnership_Action" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹£¸üÿÿÿÿ
+>	php:S1781")Write this "Array" keyword in lower case.(ËøÕÊ
+n	php:S3776G"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Š¬ßÁúÿÿÿÿ
+D	php:S2201C"/The return value of "array_merge" must be used.(’ÓŠ
+>	php:S1481")Remove this unused "$key" local variable.(ñ¢ƒ¤
+>	php:S1481@")Remove this unused "$key" local variable.(ñ¢ƒ¤
+I	php:S1066M"/Merge this if statement with the enclosing one.(ºÇ§ûÿÿÿÿ
+Iphp:S121<"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Iphp:S121:"0Add curly braces around the nested statement(s).(ÛÚÄêùÿÿÿÿ

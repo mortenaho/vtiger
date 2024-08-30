@@ -1,0 +1,30 @@
+
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(Ãô†õ
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ÈÖìëûÿÿÿÿ
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(Æ¤Ãÿÿÿÿÿ
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(Ç±á
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(€Œ€Ïûÿÿÿÿ
+U	php:S1131%"@Remove the useless trailing whitespaces at the end of this line.(â¢Ÿ
+U	php:S1131'"@Remove the useless trailing whitespaces at the end of this line.(¢ï“è
+U	php:S1131<"@Remove the useless trailing whitespaces at the end of this line.(€ÿ‹×
+]	php:S1131©"@Remove the useless trailing whitespaces at the end of this line.(½èÆ8È‹Ò¡™2
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103R"KSplit this 170 characters long line (which is greater than 120 authorized).(ªßİåÿÿÿÿÿ
+dphp:S103S"KSplit this 175 characters long line (which is greater than 120 authorized).(ì¶Ù§ûÿÿÿÿ
+_php:S103|"KSplit this 249 characters long line (which is greater than 120 authorized).(³®­
+_php:S103}"KSplit this 251 characters long line (which is greater than 120 authorized).(ğÓ‰‹
+_php:S103„"KSplit this 133 characters long line (which is greater than 120 authorized).(û’ßT
+tphp:S100"[Rename function "get_left_form_header" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(€Œ€Ïûÿÿÿÿ
+tphp:S1002"[Rename function "get_left_form_footer" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ã³Ôüÿÿÿÿ
+jphp:S100<"VRename function "get_form_header" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(€ÿ‹×
+jphp:S100a"VRename function "get_form_footer" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ù®­¯
+jphp:S100k"WRename function "get_module_title" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ƒß÷
+tphp:S100"ZRename function "insert_popup_header" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(øïßòüÿÿÿÿ
+ophp:S100¦"ZRename function "insert_popup_footer" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŞîëŒ
+8	php:S1780®"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+<	php:S1125Q"(Remove the literal "true" boolean value.(ëŠÔC
+x	php:S1488#"cImmediately return this expression instead of assigning it to the temporary variable "$the_header".(ğÿ¿«
+O	php:S6600"5Remove the parentheses from this "require_once" call.(•º¦¸ÿÿÿÿÿ
+C	php:S66003"/Remove the parentheses from this "return" call.(–Ø¯
+3php:S125|"Remove this commented out code.(³®­
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(•º¦¸ÿÿÿÿÿ

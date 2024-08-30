@@ -1,0 +1,14 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+K	php:S1784$"7Explicitly mention the visibility of this method "get".(§®…5
+Q	php:S1784,"7Explicitly mention the visibility of this method "has".(“Ó¾†úÿÿÿÿ
+S	php:S17841"9Explicitly mention the visibility of this method "getOD".(…’¸Ñşÿÿÿÿ
+N	php:S17845"9Explicitly mention the visibility of this method "hasOD".(æÍŸÀ
+F	php:S11721",Remove the unused function parameter "$key".(…’¸Ñşÿÿÿÿ
+K	php:S11721"1Remove the unused function parameter "$defvalue".(…’¸Ñşÿÿÿÿ
+A	php:S11725",Remove the unused function parameter "$key".(æÍŸÀ
+;	php:S2003"&Replace "include" with "include_once".(–ÁÚá
+E	php:S6600"0Remove the parentheses from this "include" call.(–ÁÚá
+D	php:S6600."/Remove the parentheses from this "return" call.(ƒ£’×
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(–ÁÚá
+f	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(•Ïë

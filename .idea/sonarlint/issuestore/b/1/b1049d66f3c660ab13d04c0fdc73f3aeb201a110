@@ -1,0 +1,9 @@
+
+[	php:S1131…"@Remove the useless trailing whitespaces at the end of this line.(ÔÔ±¤üÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+kphp:S103g"KSplit this 522 characters long line (which is greater than 120 authorized).(Üùüüÿÿÿÿ8¯ƒ‚™2
+fphp:S103i"KSplit this 137 characters long line (which is greater than 120 authorized).(†Êñ“8¯ƒ‚™2
+fphp:S103j"KSplit this 180 characters long line (which is greater than 120 authorized).(í’Ãé8¯ƒ‚™2
+>	php:S1781")Write this "Array" keyword in lower case.(‘—‹
+J	php:S1781")Write this "Array" keyword in lower case.(©¼şàøÿÿÿÿ8‚–‚™2
+3php:S113"'Add a new line at the end of this file.

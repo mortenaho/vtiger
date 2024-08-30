@@ -1,0 +1,19 @@
+
+N	php:S11357"4Complete the task associated to this "TODO" comment.(‘µ°±üÿÿÿÿ
+I	php:S11358"4Complete the task associated to this "TODO" comment.(™ÐÍË
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(Ãô†õ
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(–úþ
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ñƒâè
+Z	php:S1131j"@Remove the useless trailing whitespaces at the end of this line.(”ºû›ýÿÿÿÿ
+Z	php:S1131k"@Remove the useless trailing whitespaces at the end of this line.(ÿÄÝÂþÿÿÿÿ
+Z	php:S1131l"@Remove the useless trailing whitespaces at the end of this line.(ðãÈ¿þÿÿÿÿ
+U	php:S1131¯"@Remove the useless trailing whitespaces at the end of this line.(ºä­
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 204 characters long line (which is greater than 120 authorized).(Öô½Ïøÿÿÿÿ
+dphp:S103"KSplit this 214 characters long line (which is greater than 120 authorized).(ÇœŽúÿÿÿÿ
+_php:S103r"KSplit this 231 characters long line (which is greater than 120 authorized).(°Þø
+8	php:S1780¶"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+@	php:S2003"&Replace "include" with "include_once".(ÃÍæ˜úÿÿÿÿ
+J	php:S6600"0Remove the parentheses from this "include" call.(ÃÍæ˜úÿÿÿÿ
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ÃÍæ˜úÿÿÿÿ
+g	php:S4833µ"QReplace "include_once" with namespace import mechanism through the "use" keyword.(œ­å—

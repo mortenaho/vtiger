@@ -1,0 +1,40 @@
+
+Wjavascript:S11252"6Refactor the code to avoid using this boolean literal.(Âõ®‡ûÿÿÿÿ
+Ejavascript:S3504J")Unexpected var, use let or const instead.(Áİ–‡
+Jjavascript:S3504P")Unexpected var, use let or const instead.(ãÈÓÇıÿÿÿÿ
+Djavascript:S3504Q")Unexpected var, use let or const instead.(¬†îm
+Ejavascript:S3504R")Unexpected var, use let or const instead.(¡Ë…
+Sjavascript:S1481R"7Remove the declaration of the unused 'params' variable.(¡Ë…
+Ejavascript:S3504`")Unexpected var, use let or const instead.(óÍïŸ
+[javascript:S6660o"?'If' statement should not be the only statement in 'else' block(ÿïöë
+Rjavascript:S1125o"6Refactor the code to avoid using this boolean literal.(ÿïöë
+Ejavascript:S3504p")Unexpected var, use let or const instead.(óÍïŸ
+Kjavascript:S3504ˆ")Unexpected var, use let or const instead.(±ĞšÌûÿÿÿÿ
+Kjavascript:S3504‰")Unexpected var, use let or const instead.(«ê¦ªüÿÿÿÿ
+Kjavascript:S3504Š")Unexpected var, use let or const instead.(·Î‡½ùÿÿÿÿ
+Fjavascript:S3504—")Unexpected var, use let or const instead.(Áİ–‡
+Kjavascript:S3504˜")Unexpected var, use let or const instead.(œ×£˜ÿÿÿÿÿ
+Fjavascript:S3504š")Unexpected var, use let or const instead.(™Ì 
+vjavascript:S2392š"YConsider moving declaration of 'key' as it is referenced outside current binding context.(™Ì 
+Kjavascript:S3504›")Unexpected var, use let or const instead.(ŒåÀÊøÿÿÿÿ
+ƒjavascript:S2392›"aConsider moving declaration of 'fromElement' as it is referenced outside current binding context.(ŒåÀÊøÿÿÿÿ
+Fjavascript:S3504œ")Unexpected var, use let or const instead.(©ÙÇŒ
+|javascript:S2392œ"_Consider moving declaration of 'toElement' as it is referenced outside current binding context.(©ÙÇŒ
+Fjavascript:S3504 ")Unexpected var, use let or const instead.(×–Øæ
+Fjavascript:S3504¡")Unexpected var, use let or const instead.(ñŸ¹‰
+6javascript:S2814¡"'key' is already defined.(ñŸ¹‰
+Kjavascript:S3504¢")Unexpected var, use let or const instead.(ŒåÀÊøÿÿÿÿ
+Cjavascript:S2814¢"!'fromElement' is already defined.(ŒåÀÊøÿÿÿÿ
+Kjavascript:S3504£")Unexpected var, use let or const instead.(ûØÚ°ÿÿÿÿÿ
+Ajavascript:S2814£"'toElement' is already defined.(ûØÚ°ÿÿÿÿÿ
+Fjavascript:S3504­")Unexpected var, use let or const instead.(Áİ–‡
+Fjavascript:S3504®")Unexpected var, use let or const instead.(“Ú°¢
+Fjavascript:S3504°")Unexpected var, use let or const instead.(æ²ê
+Fjavascript:S3504±")Unexpected var, use let or const instead.(ä½åâ
+Fjavascript:S3504¿")Unexpected var, use let or const instead.(Áİ–‡
+Fjavascript:S3504Ë")Unexpected var, use let or const instead.(Áİ–‡
+Fjavascript:S3504Ì")Unexpected var, use let or const instead.(÷Ø†Ò
+Fjavascript:S3504Ù")Unexpected var, use let or const instead.(Áİ–‡
+Fjavascript:S3504Ü")Unexpected var, use let or const instead.(¨úâÆ
+Fjavascript:S3504è")Unexpected var, use let or const instead.(¤–ËŠ
+@javascript:S125ı"Remove this commented out code.(úÕƒÛıÿÿÿÿ

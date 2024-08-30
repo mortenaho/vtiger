@@ -1,0 +1,7 @@
+
+U	php:S11319"@Remove the useless trailing whitespaces at the end of this line.(µ¹ºÝ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103;"KSplit this 292 characters long line (which is greater than 120 authorized).(ã’Ä©ýÿÿÿÿ
+dphp:S103?"KSplit this 159 characters long line (which is greater than 120 authorized).(À£ôœÿÿÿÿÿ
+_php:S103@"KSplit this 124 characters long line (which is greater than 120 authorized).(ñ¨¢¥
+3php:S113"'Add a new line at the end of this file.

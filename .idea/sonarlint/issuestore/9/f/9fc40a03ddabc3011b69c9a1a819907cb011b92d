@@ -1,0 +1,6 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+pphp:S101"\Rename class "Vtiger_ShowTagCloud_View" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿ï¯€
+Y	php:S1784"DExplicitly mention the visibility of this constructor "__construct".(¨ÿ—¦
+Q	php:S1784"<Explicitly mention the visibility of this method "showTags".(Ú‹¥¿
+7	php:S1780*"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ

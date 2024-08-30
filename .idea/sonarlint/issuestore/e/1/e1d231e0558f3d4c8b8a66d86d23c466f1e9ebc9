@@ -1,0 +1,30 @@
+
+Z	Web:S5254\"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(ÿÿşÿÿÿÿÿ
+RWeb:UnsupportedTagsInHtml5Check‹"&Remove this deprecated "font" element.(Ú’‰
+RWeb:UnsupportedTagsInHtml5Check·"&Remove this deprecated "font" element.(Ú’‰
+RWeb:UnsupportedTagsInHtml5CheckÆ"&Remove this deprecated "font" element.(°÷¼ú
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(îÊ‚Èÿÿÿÿÿ
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ÈË“¬
+Z	php:S1131!"@Remove the useless trailing whitespaces at the end of this line.(‘ÆÄİıÿÿÿÿ
+U	php:S1131""@Remove the useless trailing whitespaces at the end of this line.(ºÄêµ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103+"KSplit this 204 characters long line (which is greater than 120 authorized).(ğóäş
+_php:S103Q"KSplit this 124 characters long line (which is greater than 120 authorized).(èŸ²·
+`php:S103’"KSplit this 148 characters long line (which is greater than 120 authorized).(¥Ç†Ç
+ephp:S103›"KSplit this 123 characters long line (which is greater than 120 authorized).(×¥¸¸ûÿÿÿÿ
+`php:S103"KSplit this 129 characters long line (which is greater than 120 authorized).(ìü¤ï
+`php:S103 "KSplit this 140 characters long line (which is greater than 120 authorized).(æ«½‚
+ephp:S103¡"KSplit this 145 characters long line (which is greater than 120 authorized).(Æñ¼Ûÿÿÿÿÿ
+ephp:S103¤"KSplit this 253 characters long line (which is greater than 120 authorized).(ĞŞ„ùÿÿÿÿ
+`php:S103¥"KSplit this 258 characters long line (which is greater than 120 authorized).(¼€ê¯
+`php:S103°"KSplit this 123 characters long line (which is greater than 120 authorized).(ú€ğ®
+`php:S103Â"KSplit this 123 characters long line (which is greater than 120 authorized).(‹…›õ
+`php:S103Í"KSplit this 123 characters long line (which is greater than 120 authorized).(‹…›õ
+I	php:S1066"/Merge this if statement with the enclosing one.(êÉñûÿÿÿÿ
+Q	php:S1793A"<Replace this "else if" keyword sequence by "elseif" keyword.(ï©ğ³
+W	php:S1793—"<Replace this "else if" keyword sequence by "elseif" keyword.(Ûß´êøÿÿÿÿ
+R	php:S1793´"<Replace this "else if" keyword sequence by "elseif" keyword.(Åû¡†
+f	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.( ş‚Ù
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Àì„Å
+k	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(ÙİÓıÿÿÿÿ
+f	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(çÅ­ª

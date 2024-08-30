@@ -1,0 +1,6 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+`php:S103“"KSplit this 127 characters long line (which is greater than 120 authorized).(ª™žó
+ephp:S103”"KSplit this 135 characters long line (which is greater than 120 authorized).(Ô¤åÏþÿÿÿÿ
+ephp:S103œ"KSplit this 153 characters long line (which is greater than 120 authorized).(ö¢¹Œÿÿÿÿÿ
+c	php:S1192&"NDefine a constant instead of duplicating this literal "Activity Type" 3 times.(³Æ–£

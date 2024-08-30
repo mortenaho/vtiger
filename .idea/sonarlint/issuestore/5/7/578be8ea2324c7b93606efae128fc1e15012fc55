@@ -1,0 +1,40 @@
+
+J	php:S1135‰"4Complete the task associated to this "TODO" comment.(²şš½
+O	php:S1135Ã"4Complete the task associated to this "TODO" comment.(Ù¤õèùÿÿÿÿ
+[	php:S1131À"@Remove the useless trailing whitespaces at the end of this line.(©é™¥úÿÿÿÿ
+[	php:S1131Ò"@Remove the useless trailing whitespaces at the end of this line.(Çş›ùÿÿÿÿ
+[	php:S1131ÿ"@Remove the useless trailing whitespaces at the end of this line.(º“ğéûÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+pphp:S100""]Rename function "stripslashes_recursive" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÁŸe
+ephp:S101"RRename class "Vtiger_Request" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÆØ²
+^	php:S1784"DExplicitly mention the visibility of this constructor "__construct".(‚ƒ‚ûÿÿÿÿ
+^	php:S1784""JExplicitly mention the visibility of this method "stripslashes_recursive".(ÁŸe
+K	php:S1784*"7Explicitly mention the visibility of this method "get".(ÍŞ§n
+X	php:S1784O">Explicitly mention the visibility of this method "getBoolean".(ëÙÌ€ùÿÿÿÿ
+O	php:S1784`":Explicitly mention the visibility of this method "getAll".(­ñ¨ü
+Q	php:S1784g"7Explicitly mention the visibility of this method "has".(«ûƒåÿÿÿÿÿ
+P	php:S1784n";Explicitly mention the visibility of this method "isEmpty".(½ıà
+T	php:S1784v":Explicitly mention the visibility of this method "getRaw".(¨Ò€şÿÿÿÿ
+M	php:S1784€"7Explicitly mention the visibility of this method "set".(µ®Âá
+X	php:S1784‡"=Explicitly mention the visibility of this method "setGlobal".(µìÈ”úÿÿÿÿ
+Y	php:S1784‘">Explicitly mention the visibility of this method "setDefault".(ÀÌÉùÿÿÿÿ
+[	php:S1784˜"@Explicitly mention the visibility of this method "getOperation".(ä¸È¿şÿÿÿÿ
+T	php:S1784Ÿ">Explicitly mention the visibility of this method "getSession".(şåõ
+Q	php:S1784¦";Explicitly mention the visibility of this method "getMode".(ƒÓµÏ
+S	php:S1784ª"=Explicitly mention the visibility of this method "getModule".(“—Âª
+P	php:S1784µ":Explicitly mention the visibility of this method "isAjax".(ãØÃß
+a	php:S1784Á"FExplicitly mention the visibility of this method "validateReadAccess".(¸öÑìşÿÿÿÿ
+b	php:S1784Ç"GExplicitly mention the visibility of this method "validateWriteAccess".(Ûä¿¯ÿÿÿÿÿ
+]	php:S1784å"BExplicitly mention the visibility of this method "getAllPurified".(¢íÁİùÿÿÿÿ
+V	php:S1784ğ"@Explicitly mention the visibility of this method "getReturnURL".(Ğ„ĞÃ
+_	php:S1784"IExplicitly mention the visibility of this method "setViewerReturnValues".(Ö™ÜÖ
+`php:S112É"FDefine and throw a dedicated exception instead of using a generic one.(ĞÂşÿÿÿÿ
+`php:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(÷Üçšüÿÿÿÿ
+`php:S112Ş"FDefine and throw a dedicated exception instead of using a generic one.(š Œïşÿÿÿÿ
+h	php:S1871¸"MThis branch's code block is the same as the block for the branch on line 182.(’‡Ùûÿÿÿÿ
+C	php:S1125¶"(Remove the literal "true" boolean value.(æıœ¨ÿÿÿÿÿ
+~	php:S1448"jClass "Vtiger_Request" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(ÆØ²
+I	php:S10667"/Merge this if statement with the enclosing one.(îè¸·úÿÿÿÿ
+J	php:S1066É"/Merge this if statement with the enclosing one.(ĞÂşÿÿÿÿ
+Jphp:S121É"0Add curly braces around the nested statement(s).(ĞÂşÿÿÿÿ
+Ephp:S121õ"0Add curly braces around the nested statement(s).(•Ôèã

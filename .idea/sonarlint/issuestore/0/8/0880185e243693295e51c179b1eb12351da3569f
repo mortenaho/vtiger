@@ -1,0 +1,376 @@
+
+O	php:S1135Ş"4Complete the task associated to this "TODO" comment.(Î’á¿ùÿÿÿÿ
+V	php:S1131Ä"@Remove the useless trailing whitespaces at the end of this line.(‚ïÛ
+[	php:S1131Å"@Remove the useless trailing whitespaces at the end of this line.(šÙµ±ûÿÿÿÿ
+[	php:S1131Ñ"@Remove the useless trailing whitespaces at the end of this line.(‰§˜üÿÿÿÿ
+V	php:S1131Ò"@Remove the useless trailing whitespaces at the end of this line.(÷Ù›ø
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103"KSplit this 122 characters long line (which is greater than 120 authorized).(Éèùƒ
+_php:S103"KSplit this 128 characters long line (which is greater than 120 authorized).(¦ƒ»™
+dphp:S103"KSplit this 209 characters long line (which is greater than 120 authorized).(´ÕÜêÿÿÿÿÿ
+_php:S103O"KSplit this 141 characters long line (which is greater than 120 authorized).(í’â•
+dphp:S103Y"KSplit this 121 characters long line (which is greater than 120 authorized).(·ºÌ¼øÿÿÿÿ
+_php:S103Z"KSplit this 121 characters long line (which is greater than 120 authorized).(ùÛ›Ô
+_php:S103\"KSplit this 122 characters long line (which is greater than 120 authorized).(¨Ã×
+_php:S103b"KSplit this 144 characters long line (which is greater than 120 authorized).(Û¸‰Ú
+dphp:S103d"KSplit this 127 characters long line (which is greater than 120 authorized).(É™¹¥ûÿÿÿÿ
+dphp:S103f"KSplit this 126 characters long line (which is greater than 120 authorized).(Û®ôÙøÿÿÿÿ
+dphp:S103g"KSplit this 131 characters long line (which is greater than 120 authorized).(ûªÃûÿÿÿÿ
+ephp:S103˜"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+ephp:S103Ÿ"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+`php:S103¡"KSplit this 130 characters long line (which is greater than 120 authorized).(Æ«’ê
+ephp:S103¢"KSplit this 123 characters long line (which is greater than 120 authorized).(•ºœÎúÿÿÿÿ
+ephp:S103Ù"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+_php:S103Ü"KSplit this 149 characters long line (which is greater than 120 authorized).(—Âe
+`php:S103İ"KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ¾Í
+ephp:S103í"KSplit this 122 characters long line (which is greater than 120 authorized).(ëˆ‘­úÿÿÿÿ
+ephp:S103˜"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+_php:S103›"KSplit this 149 characters long line (which is greater than 120 authorized).(—Âe
+`php:S103œ"KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ¾Í
+ephp:S103Õ"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+`php:S103Ø"KSplit this 145 characters long line (which is greater than 120 authorized).(õÌä
+`php:S103Ù"KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ¾Í
+ephp:S103æ"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+`php:S103è"KSplit this 167 characters long line (which is greater than 120 authorized).(›¿Ğ
+ephp:S103é"KSplit this 150 characters long line (which is greater than 120 authorized).(Ê¶Å­üÿÿÿÿ
+ephp:S103ê"KSplit this 165 characters long line (which is greater than 120 authorized).(ÜÓŠ¿ùÿÿÿÿ
+`php:S103 "KSplit this 156 characters long line (which is greater than 120 authorized).(·ÊÆİ
+_php:S103¡"KSplit this 214 characters long line (which is greater than 120 authorized).(Æ¸Ÿ;
+ephp:S103¢"KSplit this 121 characters long line (which is greater than 120 authorized).(¯Õè€ûÿÿÿÿ
+`php:S103¥"KSplit this 156 characters long line (which is greater than 120 authorized).(·ÊÆİ
+`php:S103¦"KSplit this 216 characters long line (which is greater than 120 authorized).(›¤Æá
+ephp:S103¯"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+`php:S103±"KSplit this 135 characters long line (which is greater than 120 authorized).(Á’…ú
+ephp:S103ß"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+ephp:S103á"KSplit this 134 characters long line (which is greater than 120 authorized).(ÍüšÎùÿÿÿÿ
+ephp:S103â"KSplit this 141 characters long line (which is greater than 120 authorized).(­¿á‡ıÿÿÿÿ
+`php:S103ø"KSplit this 126 characters long line (which is greater than 120 authorized).(ôºßÂ
+ephp:S103›"KSplit this 363 characters long line (which is greater than 120 authorized).(ôšàáúÿÿÿÿ
+ephp:S103Ÿ"KSplit this 140 characters long line (which is greater than 120 authorized).(È…æ…ûÿÿÿÿ
+ephp:S103¢"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+`php:S103¤"KSplit this 130 characters long line (which is greater than 120 authorized).(Æ«’ê
+ephp:S103¦"KSplit this 149 characters long line (which is greater than 120 authorized).(ÌÓ¤©üÿÿÿÿ
+ephp:S103×"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+_php:S103Ú"KSplit this 149 characters long line (which is greater than 120 authorized).(—Âe
+`php:S103Û"KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ¾Í
+ephp:S103ã"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+`php:S103å"KSplit this 130 characters long line (which is greater than 120 authorized).(Æ«’ê
+ephp:S103œ"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+_php:S103Ÿ"KSplit this 149 characters long line (which is greater than 120 authorized).(—Âe
+`php:S103 "KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ¾Í
+ephp:S103¨"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+`php:S103ª"KSplit this 130 characters long line (which is greater than 120 authorized).(Æ«’ê
+ephp:S103â"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+_php:S103å"KSplit this 149 characters long line (which is greater than 120 authorized).(—Âe
+`php:S103æ"KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ¾Í
+ephp:S103î"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+`php:S103ğ"KSplit this 123 characters long line (which is greater than 120 authorized).(È’Ëä
+`php:S103÷"KSplit this 134 characters long line (which is greater than 120 authorized).(€ÀÄ
+ephp:S103¨"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+_php:S103«"KSplit this 149 characters long line (which is greater than 120 authorized).(—Âe
+`php:S103¬"KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ¾Í
+ephp:S103´"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+ephp:S103¶"KSplit this 147 characters long line (which is greater than 120 authorized).(Ùğ‚Œùÿÿÿÿ
+`php:S103·"KSplit this 135 characters long line (which is greater than 120 authorized).(¢†ËÒ
+`php:S103¸"KSplit this 161 characters long line (which is greater than 120 authorized).(®ÁƒÌ
+ephp:S103é"KSplit this 521 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+_php:S103ì"KSplit this 149 characters long line (which is greater than 120 authorized).(—Âe
+`php:S103í"KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ¾Í
+`php:S103ö"KSplit this 135 characters long line (which is greater than 120 authorized).(†´ïÓ
+ephp:S103š"KSplit this 152 characters long line (which is greater than 120 authorized).(ßÉ²§ûÿÿÿÿ
+`php:S103È"KSplit this 412 characters long line (which is greater than 120 authorized).(ğ‹Í
+`php:S103é"KSplit this 127 characters long line (which is greater than 120 authorized).(Í†­Ÿ
+ephp:S103ì"KSplit this 123 characters long line (which is greater than 120 authorized).(õÁ¤‹şÿÿÿÿ
+ephp:S103ï"KSplit this 131 characters long line (which is greater than 120 authorized).(¨òØÿÿÿÿÿ
+ephp:S103ò"KSplit this 131 characters long line (which is greater than 120 authorized).(Î‘˜Šıÿÿÿÿ
+ephp:S103õ"KSplit this 121 characters long line (which is greater than 120 authorized).(±ùı„ıÿÿÿÿ
+_php:S103­"KSplit this 142 characters long line (which is greater than 120 authorized).(·¡²9
+`php:S103®"KSplit this 205 characters long line (which is greater than 120 authorized).(âï
+`php:S103¹"KSplit this 122 characters long line (which is greater than 120 authorized).(İ¥
+ephp:S103¿"KSplit this 153 characters long line (which is greater than 120 authorized).(²ëıûÿÿÿÿ
+`php:S103Ì"KSplit this 169 characters long line (which is greater than 120 authorized).(ôÉäš
+`php:S103Ø"KSplit this 129 characters long line (which is greater than 120 authorized).(ÿÇÜ·
+`php:S103Û"KSplit this 139 characters long line (which is greater than 120 authorized).(‡ÃñÙ
+ephp:S103Ş"KSplit this 135 characters long line (which is greater than 120 authorized).(êıÕçùÿÿÿÿ
+ephp:S103á"KSplit this 127 characters long line (which is greater than 120 authorized).(‰ŠØ†üÿÿÿÿ
+ephp:S103ä"KSplit this 156 characters long line (which is greater than 120 authorized).(ÉÇ’İüÿÿÿÿ
+_php:S103ç"KSplit this 138 characters long line (which is greater than 120 authorized).(ĞÏƒu
+ephp:S103…	"KSplit this 127 characters long line (which is greater than 120 authorized).(ÿáµÌÿÿÿÿÿ
+`php:S103›	"KSplit this 132 characters long line (which is greater than 120 authorized).(ş£òÓ
+`php:S103Ø
+"KSplit this 123 characters long line (which is greater than 120 authorized).(Éßâ
+`php:S103è
+"KSplit this 122 characters long line (which is greater than 120 authorized).(È‚ªü
+ephp:S103Â"KSplit this 530 characters long line (which is greater than 120 authorized).(É¢„şÿÿÿÿ
+ephp:S103Æ"KSplit this 145 characters long line (which is greater than 120 authorized).(†Şóğûÿÿÿÿ
+`php:S103Ç"KSplit this 127 characters long line (which is greater than 120 authorized).(Ğ¾Í
+ephp:S103×"KSplit this 145 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+`php:S103Ù"KSplit this 130 characters long line (which is greater than 120 authorized).(Æ«’ê
+_php:S103Ú"KSplit this 124 characters long line (which is greater than 120 authorized).(şò³~
+`php:S103Û"KSplit this 136 characters long line (which is greater than 120 authorized).(æ²­·
+ephp:S103ô"KSplit this 130 characters long line (which is greater than 120 authorized).(ÉÁ’İüÿÿÿÿ
+`php:S103"KSplit this 134 characters long line (which is greater than 120 authorized).(Ğ©ˆ
+ephp:S103—"KSplit this 141 characters long line (which is greater than 120 authorized).(³ò¡ğüÿÿÿÿ
+`php:S103"KSplit this 172 characters long line (which is greater than 120 authorized).(»´¹ª
+`php:S103"KSplit this 128 characters long line (which is greater than 120 authorized).(Ğ¾Í
+_php:S103Ÿ"KSplit this 132 characters long line (which is greater than 120 authorized).(‚¦—
+ephp:S103´"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+ephp:S103·"KSplit this 128 characters long line (which is greater than 120 authorized).(‘æ®Æşÿÿÿÿ
+ephp:S103õ"KSplit this 150 characters long line (which is greater than 120 authorized).(™Ş‰Íûÿÿÿÿ
+`php:S103ö"KSplit this 290 characters long line (which is greater than 120 authorized).(‡Øâ—
+ephp:S103÷"KSplit this 128 characters long line (which is greater than 120 authorized).(ñ„»ªÿÿÿÿÿ
+ephp:S103û"KSplit this 145 characters long line (which is greater than 120 authorized).(†Şóğûÿÿÿÿ
+`php:S103ü"KSplit this 127 characters long line (which is greater than 120 authorized).(Ğ¾Í
+_php:S103ı"KSplit this 131 characters long line (which is greater than 120 authorized).(‚¦—
+ephp:S103š"KSplit this 144 characters long line (which is greater than 120 authorized).(ôŒ½¸ÿÿÿÿÿ
+ephp:S103"KSplit this 138 characters long line (which is greater than 120 authorized).(·³¦øùÿÿÿÿ
+`php:S103Ÿ"KSplit this 147 characters long line (which is greater than 120 authorized).(¾»“Ú
+`php:S103£"KSplit this 149 characters long line (which is greater than 120 authorized).(Å—ûë
+I	php:S1765"5Replace the "var" keyword with the modifier "public".(ı¦å9
+O	php:S1765"5Replace the "var" keyword with the modifier "public".(¥ÒØ™ûÿÿÿÿ
+O	php:S1765"5Replace the "var" keyword with the modifier "public".(·€ƒ£ûÿÿÿÿ
+O	php:S1765"5Replace the "var" keyword with the modifier "public".(¢ÄïÒşÿÿÿÿ
+J	php:S1765"5Replace the "var" keyword with the modifier "public".(¦ƒ»™
+O	php:S1765"5Replace the "var" keyword with the modifier "public".(´ÕÜêÿÿÿÿÿ
+O	php:S1765!"5Replace the "var" keyword with the modifier "public".(äÃçâúÿÿÿÿ
+J	php:S1765""5Replace the "var" keyword with the modifier "public".(§°İ
+J	php:S1765$"5Replace the "var" keyword with the modifier "public".(¡º‘±
+J	php:S1765&"5Replace the "var" keyword with the modifier "public".(²£ÃÖ
+O	php:S1765+"5Replace the "var" keyword with the modifier "public".(İ‰ûÿÿÿÿ
+J	php:S17653"5Replace the "var" keyword with the modifier "public".(•Ãç
+O	php:S1765:"5Replace the "var" keyword with the modifier "public".(Õû™«ÿÿÿÿÿ
+J	php:S1765<"5Replace the "var" keyword with the modifier "public".(¿¯ÿ§
+J	php:S1765B"5Replace the "var" keyword with the modifier "public".(ŞÚç
+O	php:S1765H"5Replace the "var" keyword with the modifier "public".(Ê¿Ü½ûÿÿÿÿ
+O	php:S1765L"5Replace the "var" keyword with the modifier "public".(¤¢ˆÿÿÿÿÿ
+J	php:S1765O"5Replace the "var" keyword with the modifier "public".(í’â•
+O	php:S1765R"5Replace the "var" keyword with the modifier "public".(Œ½—Ùşÿÿÿÿ
+J	php:S1765S"5Replace the "var" keyword with the modifier "public".(ªâü
+J	php:S1765V"5Replace the "var" keyword with the modifier "public".(ì”ØÃ
+J	php:S1765X"5Replace the "var" keyword with the modifier "public".(ÖÀÀ
+^	php:S1784i"DExplicitly mention the visibility of this constructor "__construct".(‡¸Úœùÿÿÿÿ
+[	php:S1784o"AExplicitly mention the visibility of this constructor "Accounts".(ÏÒã…şÿÿÿÿ
+Y	php:S1784u"?Explicitly mention the visibility of this method "save_module".(Ìÿ¢¸ùÿÿÿÿ
+[	php:S1784"AExplicitly mention the visibility of this method "get_campaigns".(·şÑùÿÿÿÿ
+[	php:S1784Â"@Explicitly mention the visibility of this method "get_contacts".(ù°½øúÿÿÿÿ
+[	php:S1784ƒ"EExplicitly mention the visibility of this method "get_purchaseorder".(¥‰ó®
+`	php:S1784¾"EExplicitly mention the visibility of this method "get_opportunities".( ÷òºşÿÿÿÿ
+]	php:S1784†"BExplicitly mention the visibility of this method "get_activities".(È…ù¥øÿÿÿÿ
+U	php:S1784×"?Explicitly mention the visibility of this method "get_history".(Í £ÿ
+Y	php:S1784‚">Explicitly mention the visibility of this method "get_emails".(ªô±Öüÿÿÿÿ
+Y	php:S1784À">Explicitly mention the visibility of this method "get_quotes".(–ó¿¦ùÿÿÿÿ
+[	php:S1784…"@Explicitly mention the visibility of this method "get_invoices".(³ÿİúÿÿÿÿ
+X	php:S1784Ë"BExplicitly mention the visibility of this method "get_salesorder".(²ßöå
+T	php:S1784‘"?Explicitly mention the visibility of this method "get_tickets".(ß¾³H
+V	php:S1784Ò"@Explicitly mention the visibility of this method "get_products".(Œ˜£è
+]	php:S1784"GExplicitly mention the visibility of this method "create_export_query".(Ê¥•å
+]	php:S1784¼"GExplicitly mention the visibility of this method "getColumnNames_Acnt".(Ç·Ï
+`	php:S1784â"JExplicitly mention the visibility of this method "transferRelatedRecords".(«‚§Ş
+`	php:S1784“"EExplicitly mention the visibility of this method "setRelationTables".(ÊşÔûÿÿÿÿ
+f	php:S1784ª"KExplicitly mention the visibility of this method "generateReportsSecQuery".(™Ô¸ûüÿÿÿÿ
+]	php:S1784ô"GExplicitly mention the visibility of this method "getAccountHierarchy".(â„ÚŠ
+b	php:S1784¹	"GExplicitly mention the visibility of this method "__getParentAccounts".(Ú“ğ±øÿÿÿÿ
+[	php:S1784ø	"FExplicitly mention the visibility of this method "__getChildAccounts".(îßÔ0
+\	php:S1784¨
+"FExplicitly mention the visibility of this method "unlinkDependencies".(‡ëÚğ
+[	php:S1784ó
+"FExplicitly mention the visibility of this method "unlinkRelationship".(¶Î’g
+b	php:S1784…"GExplicitly mention the visibility of this method "save_related_module".(ûõãôûÿÿÿÿ
+]	php:S1784™"BExplicitly mention the visibility of this method "getListButtons".(”¡õÊúÿÿÿÿ
+^	php:S1784¯"CExplicitly mention the visibility of this method "get_attachments".(…ÙîÖúÿÿÿÿ
+^	php:S1784ö"CExplicitly mention the visibility of this method "get_merged_list".(‚üŸ½øÿÿÿÿ
+Z	php:S1784à"DExplicitly mention the visibility of this method "get_related_list".(ïÍ
+d	php:S1784¯"IExplicitly mention the visibility of this method "getRelatedContactsIds".(…¿äåúÿÿÿÿ
+`	php:S1784Á"JExplicitly mention the visibility of this method "getRelatedPotentialIds".(†şâ†
+]	php:S1784Î"GExplicitly mention the visibility of this method "getRelatedTicketIds".(ßàÖĞ
+8	php:S1780Ü"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+>	php:S1781")Write this "Array" keyword in lower case.(¦ƒ»™
+C	php:S1781")Write this "Array" keyword in lower case.(´ÕÜêÿÿÿÿÿ
+C	php:S1781!")Write this "Array" keyword in lower case.(äÃçâúÿÿÿÿ
+>	php:S1781$")Write this "Array" keyword in lower case.(¡º‘±
+>	php:S1781&")Write this "Array" keyword in lower case.(²£ÃÖ
+C	php:S1781+")Write this "Array" keyword in lower case.(İ‰ûÿÿÿÿ
+>	php:S1781,")Write this "Array" keyword in lower case.(ÆßŞ¹
+C	php:S1781-")Write this "Array" keyword in lower case.(Ê–ªÿÿÿÿÿ
+C	php:S1781.")Write this "Array" keyword in lower case.(øıƒÙşÿÿÿÿ
+>	php:S1781/")Write this "Array" keyword in lower case.(ıš×ó
+>	php:S17810")Write this "Array" keyword in lower case.(Ç¹ñı
+>	php:S17813")Write this "Array" keyword in lower case.(•Ãç
+>	php:S1781<")Write this "Array" keyword in lower case.(¿¯ÿ§
+>	php:S1781=")Write this "Array" keyword in lower case.(ÆßŞ¹
+C	php:S1781>")Write this "Array" keyword in lower case.(Ê–ªÿÿÿÿÿ
+>	php:S1781?")Write this "Array" keyword in lower case.(Ë„Œ£
+>	php:S1781B")Write this "Array" keyword in lower case.(ŞÚç
+C	php:S1781L")Write this "Array" keyword in lower case.(¤¢ˆÿÿÿÿÿ
+D	php:S1781¶")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781÷")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781²")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781ú")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781Ë")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781³")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781ú")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781¿")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781†")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781Ç")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+D	php:S1781ƒ")Write this "Array" keyword in lower case.(¼³åÔşÿÿÿÿ
+?	php:S1781æ")Write this "Array" keyword in lower case.(ò ´‚
+D	php:S1781ì")Write this "Array" keyword in lower case.(õÁ¤‹şÿÿÿÿ
+D	php:S1781ò")Write this "Array" keyword in lower case.(Î‘˜Šıÿÿÿÿ
+?	php:S1781ú")Write this "Array" keyword in lower case.(™‡¤½
+D	php:S1781ƒ	")Write this "Array" keyword in lower case.(©ŸÈıÿÿÿÿ
+?	php:S1781ˆ")Write this "Array" keyword in lower case.(¶İîÃ
+D	php:S1781š")Write this "Array" keyword in lower case.(ŒŞªñÿÿÿÿÿ
+?	php:S1781ê")Write this "Array" keyword in lower case.(Û¹Ğ¬
+?	php:S1781Õ")Write this "Array" keyword in lower case.(Û¹Ğ¬
+?	php:S1781¨")Write this "Array" keyword in lower case.(Û¹Ğ¬
+mphp:S116"TRename this field "$table_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·€ƒ£ûÿÿÿÿ
+nphp:S116"URename this field "$table_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢ÄïÒşÿÿÿÿ
+fphp:S116"RRename this field "$tab_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¦ƒ»™
+qphp:S116"XRename this field "$tab_name_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´ÕÜêÿÿÿÿÿ
+jphp:S116""VRename this field "$entity_table" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§°İ
+kphp:S116$"WRename this field "$column_fields" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡º‘±
+kphp:S116&"WRename this field "$sortby_fields" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(²£ÃÖ
+nphp:S116+"URename this field "$list_fields" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ‰ûÿÿÿÿ
+nphp:S1163"ZRename this field "$list_fields_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•Ãç
+rphp:S116:"YRename this field "$list_link_field" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Õû™«ÿÿÿÿÿ
+kphp:S116<"WRename this field "$search_fields" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¿¯ÿ§
+pphp:S116B"\Rename this field "$search_fields_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŞÚç
+rphp:S116H"YRename this field "$required_fields" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ê¿Ü½ûÿÿÿÿ
+sphp:S116L"ZRename this field "$mandatory_fields" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¤¢ˆÿÿÿÿÿ
+yphp:S116O"eRename this field "$emailTemplate_defaultFields" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(í’â•
+sphp:S116R"ZRename this field "$default_order_by" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Œ½—Ùşÿÿÿÿ
+pphp:S116S"\Rename this field "$default_sort_order" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ªâü
+qphp:S116V"]Rename this field "$def_basicsearch_col" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ì”ØÃ
+xphp:S116X"dRename this field "$related_module_table_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÖÀÀ
+o	php:S3776†"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(È…ù¥øÿÿÿÿ
+j	php:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(â„ÚŠ
+o	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(‚üŸ½øÿÿÿÿ
+j	php:S3776à"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ïÍ
+«	php:S2681³"•This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.(š¯ûK
+l	php:S1192"QDefine a constant instead of duplicating this literal "&return_module=" 22 times.( ‡­ùÿÿÿÿ
+a	php:S11920"LDefine a constant instead of duplicating this literal "Assigned To" 4 times.(Ç¹ñı
+’	php:S1192»
+"wDefine a constant instead of duplicating this literal "INSERT INTO vtiger_relatedlists_rb VALUES(?,?,?,?,?,?)" 4 times.(Á’áûûÿÿÿÿ
+k	php:S1192˜"PDefine a constant instead of duplicating this literal "<input title='" 25 times.(É¢„şÿÿÿÿ
+g	php:S1192-"MDefine a constant instead of duplicating this literal "Billing City" 4 times.(Ê–ªÿÿÿÿÿ
+`	php:S1192Ş"JDefine a constant instead of duplicating this literal " value='" 14 times.(¾˜¬Ì
+b	php:S1192,"MDefine a constant instead of duplicating this literal "Account Name" 4 times.(ÆßŞ¹
+†	php:S1192"kDefine a constant instead of duplicating this literal "&return_action=CallRelatedList&return_id=" 11 times.(œùıŠúÿÿÿÿ
+w	php:S1192Ü"bDefine a constant instead of duplicating this literal "' class='crmbutton small create'" 13 times.(—Âe
+	php:S1192"fDefine a constant instead of duplicating this literal "&return_action=DetailView&return_id=" 11 times.( ‡­ùÿÿÿÿ
+e	php:S1192˜"JDefine a constant instead of duplicating this literal "'>&nbsp;" 23 times.(É¢„şÿÿÿÿ
+i	php:S1192"NDefine a constant instead of duplicating this literal ") method ..." 16 times.(£”•­ùÿÿÿÿ
+C	php:S1125Á"(Remove the literal "true" boolean value.(€Ğûïüÿÿÿÿ
+J	php:S1481˜
+"/Remove this unused "$fieldname" local variable.(øˆÿ şÿÿÿÿ
+F	php:S1481ù"0Remove this unused "$rel_module" local variable.(ÔâÓ€
+J	php:S1481"/Remove this unused "$parenttab" local variable.(øÍØèüÿÿÿÿ
+J	php:S1481å	"/Remove this unused "$fieldname" local variable.(øˆÿ şÿÿÿÿ
+Q	php:S1481"6Remove this unused "$singular_modname" local variable.(´Ó‹ùÿÿÿÿ
+J	php:S1481‘"/Remove this unused "$parenttab" local variable.(øÍØèüÿÿÿÿ
+Q	php:S1481ˆ"6Remove this unused "$singular_modname" local variable.(´Ó‹ùÿÿÿÿ
+J	php:S1481ú"/Remove this unused "$parenttab" local variable.(øÍØèüÿÿÿÿ
+S	php:S1481ª"8Remove this unused "$referenceFieldName" local variable.(Æ‚æ›üÿÿÿÿ
+…	php:S1603o"kReplace this function name "Accounts", since a "__construct" method has already been defined in this class.(ÏÒã…şÿÿÿÿ
+~	php:S1448"dClass "Accounts" has 33 methods, which is greater than 20 authorized. Split it into smaller classes.(óºÒ¸øÿÿÿÿ
+Gphp:S836‹"2Review the data-flow - use of uninitialized value.(²¼ú”
+A	php:S2003”"&Replace "include" with "include_once".(˜å©ÿúÿÿÿÿ
+A	php:S2003À"&Replace "require" with "require_once".(£ş¸şÿÿÿÿ
+A	php:S2003÷"&Replace "require" with "require_once".(£ş¸şÿÿÿÿ
+m	php:S3973±"WUse curly braces or indentation to denote the code conditionally executed by this "if".(‚¡ş¹
+P	php:S6600…"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+P	php:S6600È"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+P	php:S6600‰"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+P	php:S6600Ä"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+J	php:S6600Œ"5Remove the parentheses from this "require_once" call.(×Ğ–U
+P	php:S6600ˆ"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+P	php:S6600Æ"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+P	php:S6600‹"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+P	php:S6600Ñ"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+P	php:S6600—"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+P	php:S6600Ø"5Remove the parentheses from this "require_once" call.(–­ûÊùÿÿÿÿ
+K	php:S6600”"0Remove the parentheses from this "include" call.(˜å©ÿúÿÿÿÿ
+K	php:S6600À"0Remove the parentheses from this "require" call.(£ş¸şÿÿÿÿ
+K	php:S6600÷"0Remove the parentheses from this "require" call.(£ş¸şÿÿÿÿ
+W	php:S1793–	"<Replace this "else if" keyword sequence by "elseif" keyword.(·ÈÚÄıÿÿÿÿ
+W	php:S1793¥	"<Replace this "else if" keyword sequence by "elseif" keyword.(¿•‹ºøÿÿÿÿ
+W	php:S1793ú
+"<Replace this "else if" keyword sequence by "elseif" keyword.(Ñòñºúÿÿÿÿ
+8php:S125("Remove this commented out code.(»Üõğûÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121Œ"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121–"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121¶"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121Ñ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121Ï"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121×"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121÷"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121‘"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121–"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121²"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121Í"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121Ë"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121Ó"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121ú"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121•"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121“"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121Ë"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121‘"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121™"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121³"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121Ï"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121Í"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121Õ"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121ú"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121”"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121’"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121š"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121¿"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121Ú"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121Ø"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121à"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121†"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121 "0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121¦"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121Ç"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121á"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121ß"0Add curly braces around the nested statement(s).(ôçàf
+Ephp:S121ç"0Add curly braces around the nested statement(s).(‰¤Åõ
+Jphp:S121ƒ"0Add curly braces around the nested statement(s).(¼³åÔşÿÿÿÿ
+Jphp:S121±"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121¯"0Add curly braces around the nested statement(s).(Úë+
+Ephp:S121õ
+"0Add curly braces around the nested statement(s).(¥÷î€
+Ephp:S121ˆ"0Add curly braces around the nested statement(s).(¶İîÃ
+Jphp:S121Š"0Add curly braces around the nested statement(s).(şåèÜşÿÿÿÿ
+Jphp:S121¿"0Add curly braces around the nested statement(s).(€×ĞÙùÿÿÿÿ
+Ephp:S121é"0Add curly braces around the nested statement(s).(©‘ÂÒ
+Jphp:S121Š"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121ˆ"0Add curly braces around the nested statement(s).(ôçàf
+Jphp:S121™"0Add curly braces around the nested statement(s).(€×ĞÙùÿÿÿÿ
+Jphp:S121¿"0Add curly braces around the nested statement(s).(ÅâÿÏùÿÿÿÿ
+Jphp:S121Á"0Add curly braces around the nested statement(s).(ºµ§üÿÿÿÿ
+Ephp:S121Ô"0Add curly braces around the nested statement(s).(©‘ÂÒ
+Jphp:S121ò"0Add curly braces around the nested statement(s).(€×ĞÙùÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(ÅâÿÏùÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(ºµ§üÿÿÿÿ
+Ephp:S121§"0Add curly braces around the nested statement(s).(©‘ÂÒ
+Ephp:S121±"0Add curly braces around the nested statement(s).(‚¡ş¹
+l	php:S4833…"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+l	php:S4833È"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+l	php:S4833‰"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+l	php:S4833Ä"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+f	php:S4833Œ"QReplace "require_once" with namespace import mechanism through the "use" keyword.(×Ğ–U
+l	php:S4833ˆ"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+l	php:S4833Æ"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+l	php:S4833‹"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+l	php:S4833Ñ"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+l	php:S4833—"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+l	php:S4833Ø"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–­ûÊùÿÿÿÿ
+g	php:S4833”"LReplace "include" with namespace import mechanism through the "use" keyword.(˜å©ÿúÿÿÿÿ
+g	php:S4833À"LReplace "require" with namespace import mechanism through the "use" keyword.(£ş¸şÿÿÿÿ
+g	php:S4833÷"LReplace "require" with namespace import mechanism through the "use" keyword.(£ş¸şÿÿÿÿ
