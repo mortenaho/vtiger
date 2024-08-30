@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.2, created on 2024-08-27 15:46:34
+/* Smarty version 4.5.2, created on 2024-08-30 17:22:22
   from 'D:\laragon\www\vtigercrm\layouts\v7\modules\Vtiger\Header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.2',
-  'unifunc' => 'content_66cdf4da7072e2_98453327',
+  'unifunc' => 'content_66d1ffce600c95_25493020',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'f19cb53afdad35bd49296032973b610de46891e2' => 
     array (
       0 => 'D:\\laragon\\www\\vtigercrm\\layouts\\v7\\modules\\Vtiger\\Header.tpl',
-      1 => 1724773592,
+      1 => 1725038538,
       2 => 'file',
     ),
   ),
@@ -20,11 +20,12 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_66cdf4da7072e2_98453327 (Smarty_Internal_Template $_smarty_tpl) {
+function content_66d1ffce600c95_25493020 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html><html dir="rtl"><head><title><?php echo vtranslate($_smarty_tpl->tpl_vars['PAGETITLE']->value,$_smarty_tpl->tpl_vars['QUALIFIED_MODULE']->value);?>
 </title><link rel="SHORTCUT ICON" href="layouts/v7/skins/images/favicon.ico"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link type='text/css' rel='stylesheet' href='<?php echo vresource_url("libraries/bootstrap-legacy/css/bootstrap-responsive.min.css");?>
 '> <link type='text/css' rel='stylesheet' href='<?php echo vresource_url("layouts/v7/lib/todc/css/bootstrap.min.rtl.css");?>
 '><link type='text/css' rel='stylesheet' href='<?php echo vresource_url("layouts/v7/lib/farsi_font/fa-font.css");?>
+'><link type='text/css' rel='stylesheet' href='<?php echo vresource_url("layouts/v7/lib/persianDatePicker/persianDatepicker-default.css");?>
 '><link type='text/css' rel='stylesheet' href='<?php echo vresource_url("layouts/v7/lib/todc/css/docs.min.css");?>
 '><link type='text/css' rel='stylesheet' href='<?php echo vresource_url("layouts/v7/lib/todc/css/todc-bootstrap.min.css");?>
 '><link type='text/css' rel='stylesheet' href='<?php echo vresource_url("layouts/v7/lib/font-awesome/css/font-awesome.min.css");?>
@@ -57,10 +58,13 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?><style type="tex
  src="<?php echo vresource_url('layouts/v7/lib/jquery/jquery.min.js');?>
 "><?php echo '</script'; ?>
 ><?php echo '<script'; ?>
+ src="<?php echo vresource_url('layouts/v7/lib/persianDatePicker/persianDatepicker.min.js');?>
+"><?php echo '</script'; ?>
+><?php echo '<script'; ?>
  src="<?php echo vresource_url('layouts/v7/lib/jquery/jquery-migrate-1.4.1.js');?>
 "><?php echo '</script'; ?>
 ><?php echo '<script'; ?>
- type="text/javascript">var _META = { 'module': "<?php echo $_smarty_tpl->tpl_vars['MODULE']->value;?>
+ type="text/javascript">$(function (){$(".persian-date").each(function (index,item){$(item).persianDatepicker();});});$(document).ajaxComplete(function(){$(".persian-date").each(function (index,item){$(item).persianDatepicker();});});var _META = { 'module': "<?php echo $_smarty_tpl->tpl_vars['MODULE']->value;?>
 ", view: "<?php echo $_smarty_tpl->tpl_vars['VIEW']->value;?>
 ", 'parent': "<?php echo $_smarty_tpl->tpl_vars['PARENT_MODULE']->value;?>
 ", 'notifier':"<?php echo $_smarty_tpl->tpl_vars['NOTIFIER_URL']->value;?>

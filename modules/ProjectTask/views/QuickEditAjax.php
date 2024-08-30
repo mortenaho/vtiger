@@ -23,7 +23,7 @@ class ProjectTask_QuickEditAjax_View extends Vtiger_IndexAjax_View {
 		$projectId = $request->get('parentid');
 		$recordId = $request->get('record');
 
-		if ($recordId) {
+ 		if ($recordId) {
 			$recordModel = Vtiger_Record_Model::getInstanceById($recordId, $moduleName);
 		} else {
 			$recordModel = Vtiger_Record_Model::getCleanInstance($moduleName);
@@ -74,6 +74,7 @@ class ProjectTask_QuickEditAjax_View extends Vtiger_IndexAjax_View {
 		$jsFileNames = array(
 			"modules.$moduleName.resources.Edit"
 		);
+
 		$jsScriptInstances = $this->checkAndConvertJsScripts($jsFileNames);
 		return $jsScriptInstances;
 	}

@@ -19,6 +19,7 @@
 {*		<link type='text/css' rel='stylesheet' href='{vresource_url("layouts/v7/lib/todc/css/bootstrap.min.css")}'>*}
 		<link type='text/css' rel='stylesheet' href='{vresource_url("layouts/v7/lib/todc/css/bootstrap.min.rtl.css")}'>
 		<link type='text/css' rel='stylesheet' href='{vresource_url("layouts/v7/lib/farsi_font/fa-font.css")}'>
+		<link type='text/css' rel='stylesheet' href='{vresource_url("layouts/v7/lib/persianDatePicker/persianDatepicker-default.css")}'>
 		<link type='text/css' rel='stylesheet' href='{vresource_url("layouts/v7/lib/todc/css/docs.min.css")}'>
 		<link type='text/css' rel='stylesheet' href='{vresource_url("layouts/v7/lib/todc/css/todc-bootstrap.min.css")}'>
 		<link type='text/css' rel='stylesheet' href='{vresource_url("layouts/v7/lib/font-awesome/css/font-awesome.min.css")}'>
@@ -53,8 +54,21 @@
 		</style>
 		<script type="text/javascript">var __pageCreationTime = (new Date()).getTime();</script>
 		<script src="{vresource_url('layouts/v7/lib/jquery/jquery.min.js')}"></script>
+		<script src="{vresource_url('layouts/v7/lib/persianDatePicker/persianDatepicker.min.js')}"></script>
 		<script src="{vresource_url('layouts/v7/lib/jquery/jquery-migrate-1.4.1.js')}"></script>
 		<script type="text/javascript">
+			$(function (){
+				$(".persian-date").each(function (index,item){
+					$(item).persianDatepicker();
+				});
+			});
+			$(document).ajaxComplete(function(){
+				$(".persian-date").each(function (index,item){
+					$(item).persianDatepicker();
+				});
+			});
+
+
 			var _META = { 'module': "{$MODULE}", view: "{$VIEW}", 'parent': "{$PARENT_MODULE}", 'notifier':"{$NOTIFIER_URL}", 'app':"{$SELECTED_MENU_CATEGORY}" };
             {if $EXTENSION_MODULE}
                 var _EXTENSIONMETA = { 'module': "{$EXTENSION_MODULE}", view: "{$EXTENSION_VIEW}"};

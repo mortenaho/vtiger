@@ -597,6 +597,7 @@ class Vtiger_Module_Model extends Vtiger_Module {
 	 * @return <Array> returns related fields list.
 	 */
 	public function getRelatedListFields() {
+
 		$relatedListFields = array();
 		$entityInstance = CRMEntity::getInstance($this->getName());
 		if (isset($entityInstance->list_fields_name)) {
